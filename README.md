@@ -1,1 +1,3 @@
-Analisis-numerico
+# Analisis-Numerico
+
+Santiago Caro Duque
