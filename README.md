@@ -1,3 +1,3 @@
-# Analisis-Numerico
+# Analisis-numerico
 
-Santiago Caro Duque
+Nicolas Lopez Fernandez
